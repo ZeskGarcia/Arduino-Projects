@@ -5,7 +5,8 @@ Components i've been using for this project: <br>
 | Velleman          | Protoboard                  |
 | Velleman - WHADDA | RFID Reader & Writter       |
 | Netway            | Arduino Leonardo            |
-<br><br>
+
+<br>
 
 Manuals of my components from their respective brands:
 
